@@ -1,0 +1,907 @@
+{
+  "arte": [
+    {
+      "id": 2,
+      "nome": "Macaco Astral",
+      "criador": "MonKey Brush",
+      "vendedor": "Plataforma NFT 2",
+      "image": "https://media.raritysniper.com/hape-prime/7280-600.webp?cacheId=2",
+      "valor": "1.8 ETH",
+      "publicado": "25/07/2023",
+      "quantidade": 1,
+      "views": 80
+    },
+    {
+      "id": 3,
+      "nome": "Macaco Techno",
+      "criador": "MonKey Brush",
+      "vendedor": "Plataforma NFT 3",
+      "image": "https://media.raritysniper.com/hape-prime/3829-600.webp?cacheId=2",
+      "valor": "3.2 ETH",
+      "publicado": "05/06/2023",
+      "quantidade": 1,
+      "views": 150
+    },
+    {
+      "id": 4,
+      "nome": "Macaco Selvagem",
+      "criador": "MonKey Brush",
+      "vendedor": "Plataforma NFT 4",
+      "image": "./src/assets/NFTs/macacos/macacosDrop4.svg",
+      "valor": "2.0 ETH",
+      "publicado": "20/04/2023",
+      "quantidade": 1,
+      "views": 90
+    },
+    {
+      "id": 5,
+      "nome": "Macaco Futurista",
+      "criador": "MonKey Brush",
+      "vendedor": "Plataforma NFT 5",
+      "image": "https://media.raritysniper.com/hape-prime/1268-600.webp?cacheId=2",
+      "valor": "2.7 ETH",
+      "publicado": "15/03/2023",
+      "quantidade": 1,
+      "views": 110
+    },
+    {
+      "id": 6,
+      "nome": "Macaco Místico",
+      "criador": "MonKey Brush",
+      "vendedor": "Plataforma NFT 6",
+      "image": "https://media.raritysniper.com/hape-prime/4705-600.webp?cacheId=2",
+      "valor": "4.0 ETH",
+      "publicado": "02/02/2023",
+      "quantidade": 1,
+      "views": 180
+    },
+    {
+      "id": 7,
+      "nome": "Macaco Elegante",
+      "criador": "MonKey Brush",
+      "vendedor": "Plataforma NFT 7",
+      "image": "https://media.raritysniper.com/hape-prime/4709-600.webp?cacheId=2",
+      "valor": "2.3 ETH",
+      "publicado": "25/01/2023",
+      "quantidade": 1,
+      "views": 100
+    },
+    {
+      "id": 8,
+      "nome": "Macaco Galáctico",
+      "criador": "MonKey Brush",
+      "vendedor": "Plataforma NFT 8",
+      "image": "https://media.raritysniper.com/hape-prime/1714-600.webp?cacheId=2",
+      "valor": "3.5 ETH",
+      "publicado": "18/09/2023",
+      "quantidade": 1,
+      "views": 160
+    },
+    {
+      "id": 9,
+      "nome": "Macaco Aventureiro",
+      "criador": "MonKey Brush",
+      "vendedor": "Plataforma NFT 9",
+      "image": "./src/assets/NFTs/macacos/macacosDrop9.svg",
+      "valor": "2.9 ETH",
+      "publicado": "11/11/2023",
+      "quantidade": 1,
+      "views": 140
+    }
+  ],
+  "bloxies": [
+    {
+      "id": 1,
+      "nome": "PixelBot Prime",
+      "criador": "EletricArtistry",
+      "vendedor": "Plataforma NFT 1",
+      "image": "./src/assets/NFTs/bloxies/bloxies1.svg",
+      "valor": 1.5,
+      "publicado": "10/08/2023",
+      "quantidade": 1,
+      "views": 120
+    },
+    {
+      "id": 2,
+      "nome": "PixeLinx Automaton",
+      "criador": "EletricArtistry",
+      "vendedor": "Plataforma NFT 2",
+      "image": "./src/assets/NFTs/bloxies/bloxies2.svg",
+      "valor": 0.8,
+      "publicado": "25/07/2023",
+      "quantidade": 1,
+      "views": 80
+    },
+    {
+      "id": 3,
+      "nome": "ByteBlox Droid",
+      "criador": "EletricArtistry",
+      "vendedor": "Plataforma NFT 3",
+      "image": "./src/assets/NFTs/bloxies/bloxies3.svg",
+      "valor": 2.2,
+      "publicado": "05/06/2023",
+      "quantidade": 1,
+      "views": 150
+    },
+    {
+      "id": 4,
+      "nome": "CircuitPixel Vanguard",
+      "criador": "EletricArtistry",
+      "vendedor": "Plataforma NFT 4",
+      "image": "./src/assets/NFTs/bloxies/bloxies4.svg",
+      "valor": 1,
+      "publicado": "20/04/2023",
+      "quantidade": 1,
+      "views": 90
+    },
+    {
+      "id": 5,
+      "nome": "RetroByte Synth",
+      "criador": "EletricArtistry",
+      "vendedor": "Plataforma NFT 5",
+      "image": "./src/assets/NFTs/bloxies/bloxies5.svg",
+      "valor": 1.9,
+      "publicado": "15/03/2023",
+      "quantidade": 1,
+      "views": 110
+    },
+    {
+      "id": 6,
+      "nome": "MechMatrix Pixie",
+      "criador": "EletricArtistry",
+      "vendedor": "Plataforma NFT 6",
+      "image": "./src/assets/NFTs/bloxies/bloxies6.svg",
+      "valor": 3.7,
+      "publicado": "02/02/2023",
+      "quantidade": 1,
+      "views": 180
+    },
+    {
+      "id": 7,
+      "nome": "Cybervox Construct",
+      "criador": "EletricArtistry",
+      "vendedor": "Plataforma NFT 6",
+      "image": "./src/assets/NFTs/bloxies/bloxies7.svg",
+      "valor": 2.8,
+      "publicado": "02/02/2023",
+      "quantidade": 1,
+      "views": 180
+    },
+    {
+      "id": 8,
+      "nome": "SteamPulse Cog",
+      "criador": "EletricArtistry",
+      "vendedor": "Plataforma NFT 6",
+      "image": "./src/assets/NFTs/bloxies/bloxies8.svg",
+      "valor": 1.9,
+      "publicado": "02/02/2023",
+      "quantidade": 1,
+      "views": 180
+    }
+  ],
+  "dreamfriends": [
+    {
+      "id": 1,
+      "nome": "Cubic Figure",
+      "criador": "NitroArtVisio",
+      "categoria": "dreams",
+      "vendedor": "Plataforma NFT 1",
+      "image": "./src/assets/NFTs/dreamfriends/friend1.svg",
+      "valor": "1.5 ETH",
+      "publicado": "10/08/2023",
+      "quantidade": 1,
+      "views": 120
+    },
+    {
+      "id": 2,
+      "nome": "Neo Toy Sculpts",
+      "criador": "NitroArtVisio",
+      "vendedor": "Plataforma NFT 2",
+      "image": "./src/assets/NFTs/dreamfriends/friend2.svg",
+      "valor": "0.8 ETH",
+      "publicado": "25/07/2023",
+      "quantidade": 1,
+      "views": 80
+    },
+    {
+      "id": 3,
+      "nome": "Poly Play",
+      "criador": "NitroArtVisio",
+      "vendedor": "Plataforma NFT 3",
+      "image": "./src/assets/NFTs/dreamfriends/friend3.svg",
+      "valor": "2.2 ETH",
+      "publicado": "05/06/2023",
+      "quantidade": 1,
+      "views": 150
+    },
+    {
+      "id": 4,
+      "nome": "Virtu Sculpted Icons",
+      "criador": "NitroArtVisio",
+      "vendedor": "Plataforma NFT 4",
+      "image": "./src/assets/NFTs/dreamfriends/friend4.svg",
+      "valor": "1.0 ETH",
+      "publicado": "20/04/2023",
+      "quantidade": 1,
+      "views": 90
+    },
+    {
+      "id": 5,
+      "nome": "Pixel Doll Futures",
+      "criador": "NitroArtVisio",
+      "vendedor": "Plataforma NFT 5",
+      "image": "./src/assets/NFTs/dreamfriends/friend5.svg",
+      "valor": "1.9 ETH",
+      "publicado": "15/03/2023",
+      "quantidade": 1,
+      "views": 110
+    },
+    {
+      "id": 6,
+      "nome": "Dimensional Digi Toys",
+      "criador": "NitroArtVisio",
+      "vendedor": "Plataforma NFT 6",
+      "image": "./src/assets/NFTs/dreamfriends/friend6.svg",
+      "valor": "3.3 ETH",
+      "publicado": "02/02/2023",
+      "quantidade": 1,
+      "views": 180
+    },
+    {
+      "id": 7,
+      "nome": "Futura Forma Figures",
+      "criador": "NitroArtVisio",
+      "vendedor": "Plataforma NFT 7",
+      "image": "./src/assets/NFTs/dreamfriends/friend7.svg",
+      "valor": "2.9 ETH",
+      "publicado": "15/12/2023",
+      "quantidade": 1,
+      "views": 117
+    },
+    {
+      "id": 8,
+      "nome": "Quantum Playables",
+      "criador": "NitroArtVisio",
+      "vendedor": "Plataforma NFT 8",
+      "image": "./src/assets/NFTs/dreamfriends/friend8.svg",
+      "valor": "5.3 ETH",
+      "publicado": "02/05/2023",
+      "quantidade": 1,
+      "views": 126
+    }
+  ],
+  "lucids": [
+    {
+      "id": 1,
+      "nome": "This is fine",
+      "criador": "AbsNFTArtistry",
+      "vendedor": "Plataforma NFT 1",
+      "image": "./src/assets/NFTs/lucid/lucid1.svg",
+      "valor": "1.5 ETH",
+      "publicado": "10/08/2023",
+      "quantidade": 1,
+      "views": 120
+    },
+    {
+      "id": 2,
+      "nome": "Soft Rei",
+      "criador": "AbsNFTArtistry",
+      "vendedor": "Plataforma NFT 2",
+      "image": "./src/assets/NFTs/lucid/lucid2.svg",
+      "valor": "0.8 ETH",
+      "publicado": "25/07/2023",
+      "quantidade": 1,
+      "views": 80
+    },
+    {
+      "id": 3,
+      "nome": "Whispering Ketchum",
+      "criador": "AbsNFTArtistry",
+      "vendedor": "Plataforma NFT 3",
+      "image": "./src/assets/NFTs/lucid/lucid3.svg",
+      "valor": "2.2 ETH",
+      "publicado": "05/06/2023",
+      "quantidade": 1,
+      "views": 150
+    },
+    {
+      "id": 4,
+      "nome": "SubtleChroma Carl",
+      "criador": "AbsNFTArtistry",
+      "vendedor": "Plataforma NFT 4",
+      "image": "./src/assets/NFTs/lucid/lucid4.svg",
+      "valor": "1.0 ETH",
+      "publicado": "20/04/2023",
+      "quantidade": 1,
+      "views": 90
+    },
+    {
+      "id": 5,
+      "nome": "Gentle Link",
+      "criador": "AbsNFTArtistry",
+      "vendedor": "Plataforma NFT 5",
+      "image": "./src/assets/NFTs/lucid/lucid5.svg",
+      "valor": "1.9 ETH",
+      "publicado": "15/03/2023",
+      "quantidade": 1,
+      "views": 110
+    },
+    {
+      "id": 6,
+      "nome": "ToneCanvas Finn",
+      "criador": "AbsNFTArtistry",
+      "vendedor": "Plataforma NFT 6",
+      "image": "./src/assets/NFTs/lucid/lucid6.svg",
+      "valor": "3.3 ETH",
+      "publicado": "02/02/2023",
+      "quantidade": 1,
+      "views": 180
+    },
+    {
+      "id": 7,
+      "nome": "EtherealChalk Luigi",
+      "criador": "AbsNFTArtistry",
+      "vendedor": "Plataforma NFT 7",
+      "image": "./src/assets/NFTs/lucid/lucid7.svg",
+      "valor": "2.1 ETH",
+      "publicado": "25/01/2023",
+      "quantidade": 1,
+      "views": 100
+    },
+    {
+      "id": 8,
+      "nome": "PaleChroma",
+      "criador": "AbsNFTArtistry",
+      "vendedor": "Plataforma NFT 8",
+      "image": "./src/assets/NFTs/lucid/lucid8.svg",
+      "valor": "3.8 ETH",
+      "publicado": "18/09/2023",
+      "quantidade": 1,
+      "views": 160
+    }
+  ],
+  "toxicskull": [
+    {
+      "id": 1,
+      "nome": "Psy Skull Spectra",
+      "criador": "PallateNFTBrush",
+      "vendedor": "Plataforma NFT 1",
+      "image": "./src/assets/NFTs/toxicskulls/skull1.svg",
+      "valor": "1.5 ETH",
+      "publicado": "10/08/2023",
+      "quantidade": 1,
+      "views": 120
+    },
+    {
+      "id": 2,
+      "nome": "Chroma Skull Visions",
+      "criador": "PallateNFTBrush",
+      "vendedor": "Plataforma NFT 2",
+      "image": "./src/assets/NFTs/toxicskulls/skull2.svg",
+      "valor": "0.8 ETH",
+      "publicado": "25/07/2023",
+      "quantidade": 1,
+      "views": 80
+    },
+    {
+      "id": 3,
+      "nome": "Trippy Bone Art",
+      "criador": "PallateNFTBrush",
+      "vendedor": "Plataforma NFT 3",
+      "image": "./src/assets/NFTs/toxicskulls/skull3.svg",
+      "valor": "2.2 ETH",
+      "publicado": "05/06/2023",
+      "quantidade": 1,
+      "views": 150
+    },
+    {
+      "id": 4,
+      "nome": "Kaleido Skull Dreams",
+      "criador": "PallateNFTBrush",
+      "vendedor": "Plataforma NFT 4",
+      "image": "./src/assets/NFTs/toxicskulls/skull4.svg",
+      "valor": "1.0 ETH",
+      "publicado": "20/04/2023",
+      "quantidade": 1,
+      "views": 90
+    },
+    {
+      "id": 5,
+      "nome": "Rainbow Skull Realm",
+      "criador": "PallateNFTBrush",
+      "vendedor": "Plataforma NFT 5",
+      "image": "./src/assets/NFTs/toxicskulls/skull5.svg",
+      "valor": "1.9 ETH",
+      "publicado": "15/03/2023",
+      "quantidade": 1,
+      "views": 110
+    },
+    {
+      "id": 6,
+      "nome": "Mind Melt",
+      "criador": "PallateNFTBrush",
+      "vendedor": "Plataforma NFT 6",
+      "image": "./src/assets/NFTs/toxicskulls/skull6.svg",
+      "valor": "3.3 ETH",
+      "publicado": "02/02/2023",
+      "quantidade": 1,
+      "views": 180
+    },
+    {
+      "id": 7,
+      "nome": "Neon Psy",
+      "criador": "PallateNFTBrush",
+      "vendedor": "Plataforma NFT 7",
+      "image": "./src/assets/NFTs/toxicskulls/skull7.svg",
+      "valor": "2.1 ETH",
+      "publicado": "25/01/2023",
+      "quantidade": 1,
+      "views": 100
+    },
+    {
+      "id": 8,
+      "nome": "Prism Skull Fiesta",
+      "criador": "PallateNFTBrush",
+      "vendedor": "Plataforma NFT 8",
+      "image": "./src/assets/NFTs/toxicskulls/skull8.svg",
+      "valor": "3.8 ETH",
+      "publicado": "18/09/2023",
+      "quantidade": 1,
+      "views": 160
+    }
+  ],
+  "deltanauts": [
+    {
+      "id": 1,
+      "nome": "Astro Tiny Explorers",
+      "criador": "PsyberInkManifestor",
+      "vendedor": "Plataforma NFT 1",
+      "image": "https://res.cloudinary.com/do8znblao/image/upload/v1693235111/nfts/deltanauts/sktdsm6ioqic40fzboc1.svg",
+      "valor": "5.0 ETH",
+      "publicado": "10/08/2023",
+      "quantidade": 1,
+      "visitas": 120
+    },
+    {
+      "id": 2,
+      "nome": "Starhopper Sprites",
+      "criador": "PsyberInkManifestor",
+      "vendedor": "Plataforma NFT 2",
+      "image": "https://res.cloudinary.com/do8znblao/image/upload/v1693235111/nfts/deltanauts/d0bpmx30gooblrcxtxll.svg",
+      "valor": "3.2 ETH",
+      "publicado": "25/07/2023",
+      "quantidade": 1,
+      "visitas": 80
+    },
+    {
+      "id": 3,
+      "nome": "Cosmo Adventures",
+      "criador": "PsyberInkManifestor",
+      "vendedor": "Plataforma NFT 3",
+      "image": "https://res.cloudinary.com/do8znblao/image/upload/v1693235111/nfts/deltanauts/cv4zddnnnblmiivjh9qi.svg",
+      "valor": "7.5 ETH",
+      "publicado": "05/06/2023",
+      "quantidade": 1,
+      "visitas": 150
+    },
+    {
+      "id": 4,
+      "nome": "Celestial Travelers",
+      "criador": "PsyberInkManifestor",
+      "vendedor": "Plataforma NFT 4",
+      "image": "https://res.cloudinary.com/do8znblao/image/upload/v1693235102/nfts/deltanauts/e4bvevusthwuclvwkcvm.svg",
+      "valor": "4.0 ETH",
+      "publicado": "20/04/2023",
+      "quantidade": 1,
+      "visitas": 90
+    },
+    {
+      "id": 5,
+      "nome": "Nebula Lilliputs",
+      "criador": "PsyberInkManifestor",
+      "vendedor": "Plataforma NFT 5",
+      "image": "https://res.cloudinary.com/do8znblao/image/upload/v1693235093/nfts/deltanauts/sq1wrkrpipepkx3arqxa.svg",
+      "valor": "6.2 ETH",
+      "publicado": "15/03/2023",
+      "quantidade": 1,
+      "visitas": 110
+    },
+    {
+      "id": 6,
+      "nome": "Galactic Nano Pioneers",
+      "criador": "PsyberInkManifestor",
+      "vendedor": "Plataforma NFT 6",
+      "image": "https://res.cloudinary.com/do8znblao/image/upload/v1693235077/nfts/deltanauts/tcrpchrnu6afjuxqyhhd.svg",
+      "valor": "8.1 ETH",
+      "publicado": "02/02/2023",
+      "quantidade": 1,
+      "visitas": 180
+    },
+    {
+      "id": 7,
+      "nome": "Space Odysseys",
+      "criador": "PsyberInkManifestor",
+      "vendedor": "Plataforma NFT 7",
+      "image": "https://res.cloudinary.com/do8znblao/image/upload/v1693235066/nfts/deltanauts/mlumfvphaztxh8zfqfnx.svg",
+      "valor": "3.7 ETH",
+      "publicado": "25/01/2023",
+      "quantidade": 1,
+      "visitas": 100
+    },
+    {
+      "id": 8,
+      "nome": "Astral Voyages",
+      "criador": "PsyberInkManifestor",
+      "vendedor": "Plataforma NFT 8",
+      "image": "https://res.cloudinary.com/do8znblao/image/upload/v1693235059/nfts/deltanauts/qy5oayin5wlul5vlzrie.svg",
+      "valor": "9.3 ETH",
+      "publicado": "18/09/2023",
+      "quantidade": 1,
+      "visitas": 160
+    }
+  ],
+  "acidcat": [
+    {
+      "id": 1,
+      "nome": "PsyCat Chroma",
+      "criador": "LuminaNFTBrush",
+      "vendedor": "Plataforma NFT 1",
+      "image": "./src/assets/NFTs/acidcat/acidcat1.svg",
+      "valor": "2.5 ETH",
+      "publicado": "10/08/2023",
+      "quantidade": 1,
+      "visualizacoes": 120
+    },
+    {
+      "id": 2,
+      "nome": "Rainbow FelineDreams",
+      "criador": "LuminaNFTBrush",
+      "vendedor": "Plataforma NFT 2",
+      "image": "./src/assets/NFTs/acidcat/acidcat2.svg",
+      "valor": "1.8 ETH",
+      "publicado": "25/07/2023",
+      "quantidade": 1,
+      "visualizacoes": 80
+    },
+    {
+      "id": 3,
+      "nome": "Trippy Kitty Kaleidoscope",
+      "criador": "LuminaNFTBrush",
+      "vendedor": "Plataforma NFT 3",
+      "image": "./src/assets/NFTs/acidcat/acidcat3.svg",
+      "valor": "3.2 ETH",
+      "publicado": "05/06/2023",
+      "quantidade": 1,
+      "visualizacoes": 150
+    },
+    {
+      "id": 4,
+      "nome": "Neon PurrSpectra",
+      "criador": "LuminaNFTBrush",
+      "vendedor": "Plataforma NFT 4",
+      "image": "./src/assets/NFTs/acidcat/acidcat4.svg",
+      "valor": "1.5 ETH",
+      "publicado": "20/04/2023",
+      "quantidade": 1,
+      "visualizacoes": 90
+    },
+    {
+      "id": 5,
+      "nome": "Whisker WarpArt",
+      "criador": "LuminaNFTBrush",
+      "vendedor": "Plataforma NFT 5",
+      "image": "./src/assets/NFTs/acidcat/acidcat5.svg",
+      "valor": "2.0 ETH",
+      "publicado": "15/03/2023",
+      "quantidade": 1,
+      "visualizacoes": 110
+    },
+    {
+      "id": 6,
+      "nome": "Groovy Cat Visions",
+      "criador": "LuminaNFTBrush",
+      "vendedor": "Plataforma NFT 6",
+      "image": "./src/assets/NFTs/acidcat/acidcat6.svg",
+      "valor": "2.8 ETH",
+      "publicado": "02/02/2023",
+      "quantidade": 1,
+      "visualizacoes": 180
+    },
+    {
+      "id": 7,
+      "nome": "Chroma Kitty Consciousness",
+      "criador": "LuminaNFTBrush",
+      "vendedor": "Plataforma NFT 7",
+      "image": "./src/assets/NFTs/acidcat/acidcat7.svg",
+      "valor": "4.1 ETH",
+      "publicado": "25/01/2023",
+      "quantidade": 1,
+      "visualizacoes": 100
+    },
+    {
+      "id": 8,
+      "nome": "Psychedelic Paw Gallery",
+      "criador": "LuminaNFTBrush",
+      "vendedor": "Plataforma NFT 8",
+      "image": "./src/assets/NFTs/acidcat/acidcat8.svg",
+      "valor": "3.5 ETH",
+      "publicado": "18/09/2023",
+      "quantidade": 1,
+      "visualizacoes": 160
+    }
+  ],
+  "criminaldonkeys": [
+    {
+      "id": 1,
+      "nome": "Chroma Steeds",
+      "criador": "EquiChromaArtistry",
+      "vendedor": "Plataforma NFT 1",
+      "image": "./src/assets/NFTs/criminaldonkeys/donkey1.svg",
+      "valor": "2.5 ETH",
+      "publicado": "10/08/2023",
+      "quantidade": 1,
+      "visualizacoes": 120
+    },
+    {
+      "id": 2,
+      "nome": "Rainbow HorseHues",
+      "criador": "EquiChromaArtistry",
+      "vendedor": "Plataforma NFT 2",
+      "image": "./src/assets/NFTs/criminaldonkeys/donkey2.svg",
+      "valor": "1.8 ETH",
+      "publicado": "25/07/2023",
+      "quantidade": 1,
+      "visualizacoes": 80
+    },
+    {
+      "id": 3,
+      "nome": "Spectrum EquineArt",
+      "criador": "EquiChromaArtistry",
+      "vendedor": "Plataforma NFT 3",
+      "image": "./src/assets/NFTs/criminaldonkeys/donkey3.svg",
+      "valor": "3.2 ETH",
+      "publicado": "05/06/2023",
+      "quantidade": 1,
+      "visualizacoes": 150
+    },
+    {
+      "id": 4,
+      "nome": "Vivid MareVisions",
+      "criador": "EquiChromaArtistry",
+      "vendedor": "Plataforma NFT 4",
+      "image": "./src/assets/NFTs/criminaldonkeys/donkey4.svg",
+      "valor": "1.5 ETH",
+      "publicado": "20/04/2023",
+      "quantidade": 1,
+      "visualizacoes": 90
+    },
+    {
+      "id": 5,
+      "nome": "Prismatic HorseGallery",
+      "criador": "EquiChromaArtistry",
+      "vendedor": "Plataforma NFT 5",
+      "image": "./src/assets/NFTs/criminaldonkeys/donkey5.svg",
+      "valor": "2.0 ETH",
+      "publicado": "15/03/2023",
+      "quantidade": 1,
+      "visualizacoes": 110
+    },
+    {
+      "id": 6,
+      "nome": "Colorful EquineDreams",
+      "criador": "EquiChromaArtistry",
+      "vendedor": "Plataforma NFT 6",
+      "image": "./src/assets/NFTs/criminaldonkeys/donkey6.svg",
+      "valor": "2.8 ETH",
+      "publicado": "02/02/2023",
+      "quantidade": 1,
+      "visualizacoes": 180
+    },
+    {
+      "id": 7,
+      "nome": "Psyche HorseSculpts",
+      "criador": "EquiChromaArtistry",
+      "vendedor": "Plataforma NFT 7",
+      "image": "./src/assets/NFTs/criminaldonkeys/donkey7.svg",
+      "valor": "2.0 ETH",
+      "publicado": "15/03/2023",
+      "quantidade": 1,
+      "visualizacoes": 125
+    },
+    {
+      "id": 8,
+      "nome": "Chromatic StallionSagas",
+      "criador": "EquiChromaArtistry",
+      "vendedor": "Plataforma NFT 8",
+      "image": "./src/assets/NFTs/criminaldonkeys/donkey8.svg",
+      "valor": "2.8 ETH",
+      "publicado": "02/02/2023",
+      "quantidade": 1,
+      "visualizacoes": 145
+    }
+  ],
+  "angrysociety": [
+    {
+      "id": 1,
+      "nome": "Primate Pixel",
+      "criador": "SimianSculptor",
+      "vendedor": "Plataforma NFT 1",
+      "image": "./src/assets/NFTs/angrysociety/angry1.svg",
+      "valor": "1.5 ETH",
+      "publicado": "10/08/2023",
+      "quantidade": 1,
+      "views": 120
+    },
+    {
+      "id": 2,
+      "nome": "Monkey Majesty",
+      "criador": "SimianSculptor",
+      "vendedor": "Plataforma NFT 2",
+      "image": "./src/assets/NFTs/angrysociety/angry2.svg",
+      "valor": "0.8 ETH",
+      "publicado": "25/07/2023",
+      "quantidade": 1,
+      "views": 80
+    },
+    {
+      "id": 3,
+      "nome": "Ape Artistry",
+      "criador": "SimianSculptor",
+      "vendedor": "Plataforma NFT 3",
+      "image": "./src/assets/NFTs/angrysociety/angry3.svg",
+      "valor": "2.2 ETH",
+      "publicado": "05/06/2023",
+      "quantidade": 1,
+      "views": 150
+    },
+    {
+      "id": 4,
+      "nome": "Banana Kingdom",
+      "criador": "SimianSculptor",
+      "vendedor": "Plataforma NFT 4",
+      "image": "./src/assets/NFTs/angrysociety/angry4.svg",
+      "valor": "1.0 ETH",
+      "publicado": "20/04/2023",
+      "quantidade": 1,
+      "views": 90
+    },
+    {
+      "id": 5,
+      "nome": "Chimp Canvas",
+      "criador": "SimianSculptor",
+      "vendedor": "Plataforma NFT 5",
+      "image": "./src/assets/NFTs/angrysociety/angry5.svg",
+      "valor": "1.9 ETH",
+      "publicado": "15/03/2023",
+      "quantidade": 1,
+      "views": 110
+    },
+    {
+      "id": 6,
+      "nome": "Jungle Jester",
+      "criador": "SimianSculptor",
+      "vendedor": "Plataforma NFT 6",
+      "image": "./src/assets/NFTs/angrysociety/angry6.svg",
+      "valor": "3.7 ETH",
+      "publicado": "02/02/2023",
+      "quantidade": 1,
+      "views": 180
+    },
+    {
+      "id": 7,
+      "nome": "Gorilla Gallery",
+      "criador": "SimianSculptor",
+      "vendedor": "Plataforma NFT 6",
+      "image": "./src/assets/NFTs/angrysociety/angry7.svg",
+      "valor": "2.8 ETH",
+      "publicado": "02/02/2023",
+      "quantidade": 1,
+      "views": 180
+    },
+    {
+      "id": 8,
+      "nome": "Treetop Tribe",
+      "criador": "SimianSculptor",
+      "vendedor": "Plataforma NFT 6",
+      "image": "./src/assets/NFTs/angrysociety/angry8.svg",
+      "valor": "1.9 ETH",
+      "publicado": "02/02/2023",
+      "quantidade": 1,
+      "views": 180
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "categoria": "DELTANAUTS",
+      "image": "./src/assets/NFTs/deltanauts/deltanauts2.svg"
+    },
+    {
+      "id": 2,
+      "categoria": "CRIMINAL DONKEYS",
+      "image": "./src/assets/NFTs/criminaldonkeys/donkey4.svg"
+    },
+    {
+      "id": 3,
+      "categoria": "ACID CAT",
+      "image": "./src/assets/NFTs/acidcat/acidcat7.svg"
+    },
+    {
+      "id": 4,
+      "categoria": "ANGRY SOCIETY",
+      "image": "./src/assets/NFTs/angrysociety/angry1.svg"
+    },
+    {
+      "id": 5,
+      "categoria": "BLOXIES",
+      "image": "./src/assets/NFTs/bloxies/bloxies8.svg"
+    },
+    {
+      "id": 6,
+      "categoria": "DREAM FRIENDS",
+      "image": "./src/assets/NFTs/dreamfriends/friend3.svg"
+    },
+    {
+      "id": 7,
+      "categoria": "LUCID",
+      "image": "./src/assets/NFTs/lucid/lucid3.svg"
+    },
+    {
+      "id": 8,
+      "categoria": "TOXIC SKULL",
+      "image": "./src/assets/NFTs/toxicskulls/skull3.svg"
+    }
+  ],
+  "artistas": [
+    {
+      "id": 1,
+      "nome": "EletricArtistry",
+      "image": "./src/assets/artistas/artista1.svg"
+    },
+    {
+      "id": 2,
+      "nome": "NitroArtVisio",
+      "image": "./src/assets/artistas/artista2.svg"
+    },
+    {
+      "id": 3,
+      "nome": "AbsNFTArtistry",
+      "image": "./src/assets/artistas/artista3.svg"
+    },
+    {
+      "id": 4,
+      "nome": "SimianSculptor",
+      "image": "./src/assets/artistas/artista4.svg"
+    },
+    {
+      "id": 5,
+      "nome": "PallateNFTBrush",
+      "image": "./src/assets/artistas/artista5.svg"
+    },
+    {
+      "id": 6,
+      "nome": "PsyberInkManifestor",
+      "image": "./src/assets/artistas/artista6.svg"
+    },
+    {
+      "id": 7,
+      "nome": "LuminaNFTBrush",
+      "image": "./src/assets/artistas/artista7.svg"
+    },
+    {
+      "id": 8,
+      "nome": "EquiChromaArtistry",
+      "image": "./src/assets/artistas/artista8.svg"
+    }
+  ],
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Finalizado"
+    }
+  ]
+}
